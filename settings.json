@@ -1,0 +1,9 @@
+{
+  "password": "admin_password",
+  "admin": "admin_id_here",
+  "webhook": "admin_webhook",
+  "serverID": "",
+  "botToken": "",
+  "botID": "",
+  "siteBase": ""
+}
