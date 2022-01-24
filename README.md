@@ -28,4 +28,5 @@
 ![Screen Shot 2022-01-23 at 7 32 27 PM](https://user-images.githubusercontent.com/65430229/150708174-fd154597-6575-4be8-a962-3181611f5c39.png)
 
 *Necessary settings.json file. Password key needs to hold the value of an admin's password to generate licenses. Admin key needs to hold the value of an admin's Discord ID to generate licenses. Webhook key holds the value of an admin's webhook where generated keys will be sent. ServerID key holds the value of the ID of the Discord server where clients will be a part of. BotToken key will hold the value of the token created for the Discord bot. BotID key will hold the value of the Discord bot's ID. SiteBase key will hold the value of the base of the API site where the database and express server will be hosted on.* 
+
 ![Screen Shot 2022-01-23 at 7 33 21 PM](https://user-images.githubusercontent.com/65430229/150708239-462e2701-fc48-4ded-83d1-4849608edc65.png)
